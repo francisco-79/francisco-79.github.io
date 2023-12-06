@@ -1,4 +1,4 @@
-##Francisco Alonso's Portfolio
+## Francisco Alonso's Portfolio
 
 I am a Computer Science student at CSUF and I expect to graduate in 2027.
 
