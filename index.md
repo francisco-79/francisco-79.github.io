@@ -1,6 +1,6 @@
-## Francisco Alonso's Portfolio
+## Hello World
 
-I am a Computer Science student at CSUF and I expect to graduate in 2027.
+This is my home page! My name is Francisco Alonso and I am a Computer Science student at CSUF and I expect to graduate in 2027.
 
 ## Computer Science Projects
 
