@@ -2,6 +2,10 @@
 
 I am a Computer Science student at CSUF and I expect to graduate in 2027.
 
+## Computer Science Projects
+
+My GitHub pages is https://github.com/francisco-79
+
 ## Favorite CPSC 120L Labs
 * Lab 3 , part 2
   
